@@ -21,10 +21,8 @@ If you have some problems, you could refer to this [link](https://github.com/ath
 
 I made my own docker [image](https://hub.docker.com/r/tyoung96/ros2-foxy-nvidia). The packages below are available.  
 
-- Gazebo  
-- Turtlesim  
-- Rqt  
-- Rqt-graph  
-- To be updated later...
+Tag information  
+- [1.0](https://hub.docker.com/layers/tyoung96/ros2-foxy-nvidia/1.0/images/sha256-4c87c15b429b8787d917bf35bc604bcb414a7f2498e5c613845e59d4724c3627?context=explore)  : Ubuntu 20.04 + ROS2 foxy +  Gazebo +  Rqt  
+- [1.1](https://hub.docker.com/layers/178861584/tyoung96/ros2-foxy-nvidia/1.1/images/sha256-b81681c87f0a2ee4c12346db060884749e03b04aac68cfa166551b62ed5ce3b8?context=repo) : 1.0 + image-tools + Turtlebot3 + navigation2 + [RQT icon visualize](https://answers.ros.org/question/372890/rqt-button-not-show-icon/)
 
 I fork ROS2 tutorial code in [this repository](https://github.com/robotpilot/ros2-seminar-examples).  
